@@ -9,3 +9,4 @@ pandas
 tqdm
 jupyter
 opencv-python
+nitorch
