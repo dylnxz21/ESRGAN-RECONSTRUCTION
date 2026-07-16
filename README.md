@@ -115,6 +115,9 @@ Evaluation
 ### 1. MRI Data Loading
 
 MRI volumes are loaded from NIfTI files and prepared for processing.
+<p align="center">
+  <img src="images/Capture11.PNG" width="700">
+</p>
 
 ### 2. Image Degradation
 
@@ -125,6 +128,10 @@ The degradation process includes:
 - Spatial resolution reduction
 - Downsampling
 - Noise simulation
+
+<p align="center">
+  <img src="images/Capturejj.PNG" width="700">
+</p>
 
 ### 3. Super-Resolution Reconstruction
 
