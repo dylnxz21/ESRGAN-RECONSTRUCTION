@@ -1,9 +1,8 @@
 # Brain MRI Super-Resolution using ESRGAN
 
 <p align="center">
-  <img src="images/mri_super_resolution_result.png" width="700">
+  <img src="images/Capturellp.PNG" width="700">
 </p>
-
 ## Overview
 
 This project explores deep learning techniques for improving the resolution of brain MRI images using **Enhanced Super-Resolution Generative Adversarial Networks (ESRGAN)**.
